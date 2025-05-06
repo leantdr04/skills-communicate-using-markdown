@@ -9,3 +9,9 @@ Practicing for Github markdown !
 ``` javascript
 let myVar = "Hello, world!";
 ```
+#My Tasks
+- [X] Say Hi to the World
+- [X] Embed a picture of a burger (yummm)
+- [X] Show a JS code
+- [X] Create a Task List
+- [ ] Profit
